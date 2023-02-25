@@ -145,7 +145,7 @@ public class App extends JFrame implements KeyListener
 		frame.setVisible(true);
 	    label.setBounds(80,300,1220,450);
 	    label2.setIcon(new ImageIcon("C:\\muzica date\\design java\\img1.png"));
-		label3.setIcon(new ImageIcon("C:\\muzica date\\design java\\cloud1.jpg"));
+		label3.setIcon(new ImageIcon("cloud1.jpg"));
 	    
 		JButton buton2 = new JButton ();
 		JButton buton3 = new JButton ();
