@@ -9,7 +9,7 @@ This is my first 2D game created with Java, without any framework. I need to men
 You can find the code of the game in the " src " directory, and the game executable (.exe) in the " Dangerous Corners " directory, so, you can download it.
 If you have some problems with the resolution, let's follow the next steps :
 
-    1) Go the the desktop
+    1) Go to the desktop
     2) Right click
     3) Click on "Display settings"
     4) Find "scale and layout" section
